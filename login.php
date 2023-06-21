@@ -135,7 +135,8 @@ while ($row=mysqli_fetch_array($ret)) {
                         </div>
                         
                         <div class="twice-two" style="padding-top: 30px;">
-                          <a class="link--gray" style="color: blue;" href="forgot-password.php">Forgot Password?</a>
+                          <a class="link--gray" style="color: blue;" href="forgot-password.php">Forgot Password? Reset</a>
+                          <a class="link--gray" style="color: blue;" href="signup.php">Don't Have an Account? Register</a>
                         
                         </div>
                         <button type="submit" class="btn btn-contact" name="login">Login</button>

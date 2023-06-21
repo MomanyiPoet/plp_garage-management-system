@@ -174,6 +174,11 @@ while ($row=mysqli_fetch_array($ret)) {
                         <label>Repeat password</label>
                             <input type="password" class="form-control" name="repeatpassword" placeholder="Repeat password" required="true">
                         </div>
+
+                        <div class="twice-two" style="padding-top: 30px;">
+                          <a class="link--gray" style="color: blue;" href="login.php">Already Have an Account? Login</a>
+                        
+                        </div>
                       
                         <button type="submit" class="btn btn-contact" name="submit">Signup</button>
                     </form>

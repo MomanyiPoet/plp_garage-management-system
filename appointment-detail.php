@@ -135,6 +135,11 @@ if($row['Status']=="Rejected")
 
      ;?></td>
   </tr>
+
+  <tr>
+    <th>Remarks</th>
+    <td><?php  echo $row['Remark'];?></td>
+  </tr>
                         </table><?php } ?>
                     </div> </div>
                 
