@@ -32,7 +32,7 @@ $(function () {
 </script>
 <!-- disable body scroll which navbar is in active -->
 
-<!-- breadcrumbs -->
+<!-- eadcrbrumbs -->
     <section class="w3l-inner-banner-main">
         <div class="about-inner about ">
             <div class="container">   
