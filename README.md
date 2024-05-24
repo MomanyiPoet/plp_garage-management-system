@@ -29,6 +29,7 @@
 - HTML
 - CSS
 - JavaScript
+- PHP
 
 ## Link
 - [Poetic Inspirations Website](https://poetic-inspirations.netlify.app/)
